@@ -4,7 +4,7 @@ https://keybase.io/daiyi
 
 I hereby claim:
 
-  * I am an admin of http://daiyi.co
+  * I am an admin of http://www.daiyi.co
   * I am daiyi (https://keybase.io/daiyi) on keybase.
   * I have a public key with fingerprint CEDB 74E6 6ED6 C2AC 8118  12DB E8CA 3860 7BB7 48E3
 
@@ -22,16 +22,16 @@ To do so, I am signing this object:
             "username": "daiyi"
         },
         "service": {
-            "hostname": "daiyi.co",
+            "hostname": "www.daiyi.co",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1461041621,
+    "ctime": 1461041961,
     "expire_in": 157680000,
-    "prev": "6f5a75f8e92a1e9eca6b3dcd10f292c57410422c2fe86f8d5b4501affd57fbcf",
-    "seqno": 7,
+    "prev": "bb212c73ceb7e7d992f2d433a2e04c107a6ff22ce12cc08544c791f0b6a96cec",
+    "seqno": 8,
     "tag": "signature"
 }
 
@@ -40,28 +40,29 @@ which yields the signature:
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1
 
-owGtUmtQVVUUPpeHCeQFH4xmDeaBCoSRs8/7YGQTKmCpkORjLC5nn7MPHMH7PFy9
-EEygIiYGaEN1Jx2HRyNooA0MI0QqY5RohqmUTTbT0EPLm6mIFOG0D1Mz/ehn+8/e
-e63v+9a31qy6GcFEkOX6oJhX2p0xYjl3AxLro0/cKiWhQ/WRKaVkIZq6UJGKPIat
-UFfJFJICFJBkiuNUmRWgJAKW55EkQprnAWBwQGJVmlPxS1Y5imd5DQg8J3BQ4jQe
-MYzGQ4WSySRS0+35yO1063YDyypIhQKLsJbKK7SsiACIgFYhEhWZEXlKgDgtIgYT
-Cxwek4HNQdmDFusOHMMf25S9/8D/z76Lp+QYCeAKgigCyNAix0NBZhma5RmepWQN
-SCbQg9x2eQvCaFXWfTpZlkTikFdXkDlVs41/pxcrZiNOt8NwKI4iHC0wDGeKSTJ8
-ThO1FUHb33wb1O0qnh8meJHbozvsZArASMXQTUHcG6BYwNMgiUTbnLob2XQTwQm8
-SOFjlkFeLMlrnCxwmogkWgZIykKKzENGVVRAabREK5zAYiGaVmgNibwmqhxkOQrI
-mqZyggYVjTRbctkdZIqAfcr5WNOj59tlo9iNyLLw3UGPhRCWIGJaaJC5WUR4WNQ/
-63Y7MXIyKi0x+sw3B5e+6ol7eJWwtwOcf/bp0Xce3Le03glZkVXZGNMaX2lsN07V
-zhq/uG9HIJNYm9t05tcPs6V733cW/bHpZGzgh9mZ6Ss5uqRoRsjVnOW/u4L9z1eP
-jfvC4uruRo44mlFze/lG109veQlidpPVsoGg3LnFtXdvKQ+Ce6SnbqZti1800OY4
-/vl7+qUC20uOHblbAunpa0Rrm31axEqhq/ZJf1ug/qHib13VF37MXQfCjZjlvLXw
-0a6besln41+uU8cOJ6Sm14RKZF/i0vbiGDdXn9B5YY6HivLtahgajgGbZ5bM7R1I
-jZwzGBu2UcyYdyoxIr4uZJZtNO7xqy9fqe29zT7yqfX6/kNLEvKzx21b8ypfrJnU
-nsvZMXT2hZF5zQG0xrri4CfnXznWHd/YH7JvaMHwgvmdPYHq+smJvqqTv53uJNyx
-cNVXPwf8TS2Vg8GjAw1zDywcYnq2O3XvNd8N6Rf7d+8e/QJ2FeTsjvmTQ4S/6kR2
-aNGi4dUT/kv3T3euhZl7Xq+/l5gauLZ/Wf+uiOSjhyP9se/vCS4/wJa1uF6rqS/N
-+mBnO3xTPfLEsq6gjuTs/GesHS0ZTF/WSH9F1fHG9cmH7ohCc97qDQnHKvYy42/b
-/C4l7Wsu+uP2selHlIrYhTMtm1q98329Fy/nlsuXzxlL3miYPnH2oyv+7szNHPwL
-=8dUr
+owGtUm1QVFUYXnBlEHEAgWAny7okFLOz3M9z712dMmtNdEalodEsWO/H2eUC7S67
+CwsuiCAJGA3QqDg0CE2RGAaVMBS6NdFAU6Q/KAiEdI1gSGFgBhlkYrNzGfvXz86f
+c877Ps/zvs87b92mdZrgoJkfuaPenj2TQYN/ippDsVcNXky0y0WY0YvlwLUL5srQ
+5TbnKDJmxHACJ3gBZxhZoFmR5wgaAMhzIgkAQVAowNMyycjoJcgMDmhgIVjAsIzI
+MxYAKcoCRAkXMD1mUWxW6HQ4FZsbyUpQFlkaIi0ZSKQgcQTBEaQsQk4SKA7grIjS
+HKQQMcvuUhmoOVFwQYNiRzH0Ma+19x/4/7nv/DU5iidQBZbjCJEiOQaIrEBTJA0o
+QOOCheBVoAs6bcJbEKFlQSlSsBI9hkIFigTVqao2HqU9Ho9hDWKQVDMOp91tl+y5
+KJPldjuMKtFd5FhDQtH8SMMsKjYZzRARCqDTpdhtmJFASMmtqKLIH4HTBA8IPQYL
+HYoTmhUVwbCAw9FRy8ACJCmKJEFKLCVBMZ2FrMzzpIWUaYoSSIjTEoGzArBYSFKC
+CCbhHEPTEssTFlwEAg8kKGGqrTybHTNyqE/BijRditUmuPOdECsJqw7eotUEBWtC
+1ger26UJ2xD578rdrY34m7qfcrW1++uGFywvLm98LXKMGted2rji6dL5e68F8j7P
+8o3Nnilr0o4NLlwqXnr5F9P0XJ6uf6i6qqQvu+X4/DQ+4JtM6+qs1+feS8he+GKq
+x5rV/lVCQ7lhzDyQMRzaPqqfmy3XK4G/Ti26qqdv/bppd2DHaPjI5GjcnaZSv+Hu
+t7Fyc+NDauq2r6zlTEL27e4O6P8kJGm/z7e7IXWzbU/+0huFyYHZ90wnns+pj31G
+Y4gp7jjSUtnyVNN43nDqw76nnZD7ua3myC4iPoaNe3s5Z2/NyLaZV+MnUsJXfDHX
+fxfMsxPfBSe6Mo0PVlM6B9YJ6Z++b9Hmu8xdD/IOJGR6471pH82dvtfpudA//FzK
+1KFQx3iurrdwy0H9asVKtGFnliem5/EDhd88ubgjsnnM/GaKknHWdudYyBVqYv8N
+7EbceHvcUFRXm9aqO1dPRvqTuJig9PMJlWk5U4Iy3T9/fbAKHO1u+0FjHR1NWq7o
+bTWtByejKj5OBLPlx0L90/vg+fi6mQu/bY+qk3Zqv7fXbL1/mP2juJHxz/tfSR45
+cSnwQXF63zv4fN1nL2kilC/3Rr+7LX641pC60PGs7uIgXntxc5i30nTFmVy2ajId
+X1zYXvvE5cOlr/e3VAUyopdqHKkj1259SGfe3PdT883HGjccBJcTI7aGG6p3ab1D
+pSdzW6V/AA==
+=hU6Q
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
