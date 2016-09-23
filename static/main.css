@@ -40,14 +40,6 @@ body {
   margin-bottom: 100px;
 }
 
-.content .resume {
-
-}
-
-.content .resume p {
-  margin-left: 20px;
-}
-
 .footer {
   background-color: #000;
   color: #999;
@@ -77,6 +69,10 @@ body {
   position: relative;
 }
 
+.content .container {
+  margin-bottom: 40px;
+}
+
 h1 {
   font-size: 45px;
 }
@@ -90,6 +86,10 @@ h2 {
 h2 small {
   font-weight: normal;
   font-size: 20px;
+}
+
+p {
+  line-height: 1.3em;
 }
 
 .align-right {
@@ -121,4 +121,22 @@ a.button {
 }
 a.button:hover {
   border: 3px #000 solid;
+}
+
+.link-list {
+  display: block;
+}
+.link-list li {
+  background: #000;
+  color: #999;
+  display: inline-block;
+  padding: 4px 10px 2px 10px;
+  margin:  10px;
+}
+.link-list a {
+  border: none;
+  color: #fff;
+}
+.link-list a:hover {
+  color: #05EBB1;
 }
