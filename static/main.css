@@ -89,6 +89,10 @@ h1 {
 h1 small {
   font-size: 20px;
 }
+h1 a:link, h1 a:visited, h1 a:hover {
+  color: #000000;
+  border: none;
+}
 
 h2 {
   font-size: 28px;
