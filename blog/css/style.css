@@ -227,8 +227,6 @@ div {
     line-height: 1.77;
     color: #444;
     padding-top: 15px;
-    text-align: justify;
-    text-justify: distribute;
     word-break: normal; }
     .post .post-content h2 {
       margin: 1.4em 0 1.1em;
@@ -366,9 +364,20 @@ div {
   .hidden_mid_and_down {
     display: none !important; }
   #sidebar {
+    border-top: 1px solid #ddd;
     border-left-width: 0px;
     margin: 0;
     padding: 0; }
+    #sidebar .h-card {
+      display: flex; }
+      #sidebar .h-card img {
+        flex: 1;
+        max-width: 100px; }
+      #sidebar .h-card .details {
+        flex: 1;
+        padding-left: 20px; }
+    #sidebar .widget {
+      margin-top: 30px; }
   #header .site-name {
     margin-bottom: 20px;
     text-align: center; }
