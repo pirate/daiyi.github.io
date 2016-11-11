@@ -183,18 +183,6 @@ div {
     float: left;
     display: inline;
     text-indent: .15em; }
-    .post .post-meta:before {
-      font-family: "FontAwesome";
-      content: "\f073";
-      padding-right: 0.3em; }
-    .post .post-meta .category:before {
-      font-family: "FontAwesome";
-      content: "\f07c";
-      padding-right: 0.3em; }
-    .post .post-meta #busuanzi_value_page_pv:before {
-      font-family: "FontAwesome";
-      content: "\f024";
-      padding-right: 0.3em; }
   .post .ds-thread-count {
     padding: 0;
     margin: 15px 0 0;
@@ -215,10 +203,6 @@ div {
     float: right;
     display: inline;
     text-indent: .15em; }
-    .post .disqus-comment-count:before {
-      font-family: "FontAwesome";
-      content: "\f0e5";
-      padding-right: 0.3em; }
     .post .disqus-comment-count:hover {
       color: #444; }
   .post .post-content {
@@ -286,10 +270,6 @@ div {
     padding-bottom: 1em; }
     .post .tags a {
       margin-right: .5em; }
-      .post .tags a:before {
-        font-family: "FontAwesome";
-        content: "\f0c6";
-        padding-right: 0.3em; }
 
 .page-navigator {
   border-top: 1px solid #ddd;
