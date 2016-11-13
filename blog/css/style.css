@@ -14,11 +14,11 @@ specific font stacks to ensure the greatest OS/browser compatibility.
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
   /* Set your content font stack here: */
-  font-family: "PingFangSC-Regular", Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif; }
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", "PingFangSC-Regular", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif; }
 
 body {
   background-color: #FFF;
-  color: #444;
+  color: #555;
   font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -31,7 +31,8 @@ body {
 
 .content_container {
   padding-right: 50px;
-  padding-top: 20px; }
+  padding-top: 20px;
+  padding-bottom: 70px; }
 
 a, button.submit {
   color: #6E7173;
@@ -42,7 +43,7 @@ a, button.submit {
   transition: all .1s ease-in; }
 
 a:hover, a:active {
-  color: #444; }
+  color: #7462e0; }
 
 a:focus {
   outline: auto; }
@@ -91,6 +92,8 @@ div {
       #header #nav-menu a.current {
         border: 1px solid #ddd;
         border-bottom-color: #fff; }
+      #header #nav-menu a.current:hover {
+        color: #666; }
 
 #sidebar {
   border-left: 1px solid #ddd;
@@ -105,6 +108,13 @@ div {
     display: block; }
   #sidebar .widget {
     margin-bottom: 30px; }
+    #sidebar .widget .profile-links li {
+      margin: 0 5px;
+      display: inline; }
+    #sidebar .widget .profile-links li:first-child {
+      margin-left: 0; }
+    #sidebar .widget .profile-links li:last-child {
+      margin-right: 0; }
     #sidebar .widget .widget-title {
       color: #6E7173;
       line-height: 2.7;
@@ -168,21 +178,28 @@ div {
   color: #888; }
 
 .post {
-  padding: 25px 0 15px; }
+  margin: 70px 0 15px; }
+  .post .meta {
+    font-family: "courier new", "courier", "monospace"; }
   .post .post-title {
     margin: 0;
     color: #555;
     text-align: left;
-    font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
+    font: 30px/1.1 "courier new", "courier", "monospace"; }
     .post .post-title a {
-      color: #555; }
+      color: #00a4a6; }
   .post .post-meta {
     padding: 0;
-    margin: 15px 0 0;
-    color: #6E7173;
+    margin: 6px 0 0;
+    color: #888;
     float: left;
     display: inline;
     text-indent: .15em; }
+  .post .post-categories {
+    margin: 50px 0 10px;
+    color: #777; }
+    .post .post-categories a {
+      border-bottom: 1px dotted; }
   .post .ds-thread-count {
     padding: 0;
     margin: 15px 0 0;
@@ -195,7 +212,7 @@ div {
       content: "\f0e5";
       padding-right: 0.3em; }
     .post .ds-thread-count:hover {
-      color: #444; }
+      color: #7462e0; }
   .post .disqus-comment-count {
     padding: 0;
     margin: 15px 0 0;
@@ -204,31 +221,38 @@ div {
     display: inline;
     text-indent: .15em; }
     .post .disqus-comment-count:hover {
-      color: #444; }
+      color: #7462e0; }
   .post .post-content {
     clear: left;
-    font-size: 15px;
-    line-height: 1.77;
-    color: #444;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #555;
     padding-top: 15px;
     word-break: normal; }
     .post .post-content h2 {
-      margin: 1.4em 0 1.1em;
-      border-bottom: 1px solid #eee;
-      overflow: hidden; }
+      font-size: 1.4em;
+      margin: 0 0 0.7em 0; }
     .post .post-content h3 {
-      margin: 1.4em 0 1.1em; }
+      font-size: 1.3em;
+      margin: 0 0 0.8em 0; }
+    .post .post-content h1, .post .post-content h2, .post .post-content h3, .post .post-content h4, .post .post-content h5, .post .post-content h6 {
+      color: #333;
+      font-family: 'courier new', 'courier', 'monospace';
+      font-weight: normal;
+      line-height: 1.3;
+      padding-top: 0.5em; }
     .post .post-content pre code {
       padding: 0 2em; }
+    .post .post-content a {
+      color: #7462e0; }
     .post .post-content p {
-      margin: 0 0 1.234em; }
+      margin: 0 0 1.2em; }
       .post .post-content p code {
         display: inline-block;
         margin: 0 5px;
         padding: 0 5px;
         background: #f7f8f8; }
       .post .post-content p a {
-        color: #01579f;
         padding-bottom: 2px;
         word-break: break-all; }
         .post .post-content p a:hover {
@@ -247,8 +271,7 @@ div {
       position: relative; }
     .post .post-content img {
       max-width: 100%;
-      padding: 0.5em 0;
-      margin: auto;
+      margin: 0 0 1.6em 0;
       display: block; }
     .post .post-content ul, .post .post-content ol {
       border-radius: 3px;
@@ -261,7 +284,6 @@ div {
         padding: 0px 5px;
         background: #f7f8f8; }
       .post .post-content ul a, .post .post-content ol a {
-        color: #01579f;
         padding-bottom: 2px;
         word-break: break-all; }
         .post .post-content ul a:hover, .post .post-content ol a:hover {
@@ -349,12 +371,13 @@ div {
     margin: 0;
     padding: 0; }
     #sidebar .h-card {
-      display: flex; }
+      display: flex;
+      flex-wrap: wrap; }
       #sidebar .h-card img {
-        flex: 1;
+        flex: 1 0 50%;
         max-width: 100px; }
-      #sidebar .h-card .details {
-        flex: 1;
+      #sidebar .h-card .profile-details {
+        flex: 1 0 50%;
         padding-left: 20px; }
     #sidebar .widget {
       margin-top: 30px; }
@@ -397,7 +420,7 @@ blockquote:before, .stressed-quote:before {
   margin-left: -50px;
   position: absolute; }
 
-strong, b, em {
+strong, b {
   font-weight: bold; }
 
 pre {
@@ -730,21 +753,23 @@ pre {
     right: 35px; } }
 
 /* read more*/
-.readmore a {
-  font-size: 14px;
-  color: #444;
-  margin: -10px 0;
-  padding: 5px 10px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  float: right; }
-  .readmore a:after {
-    font-family: "FontAwesome";
-    content: "\f101";
-    padding-left: 0.3em; }
-  .readmore a:hover {
-    background: #F8F8F8;
-    border-bottom-color: #D26911; }
+.readmore {
+  padding-bottom: 10px; }
+  .readmore a {
+    background-color: #939393;
+    color: #fff;
+    float: right;
+    font-size: 14px;
+    margin: -10px 0;
+    padding: 5px 10px;
+    text-transform: uppercase; }
+    .readmore a:after {
+      font-family: "FontAwesome";
+      content: "\f101";
+      padding-left: 0.3em; }
+    .readmore a:hover {
+      background: #F8F8F8;
+      border-bottom-color: #D26911; }
 
 /* duoshuo style*/
 #ds-thread #ds-reset {
@@ -1378,7 +1403,7 @@ figure.highlight,
     display: inline-block;
     line-height: 25px;
     font-size: 15px;
-    color: #555;
+    color: #888;
     border-bottom: none;
     float: left; }
     .post-nav a.pre {
