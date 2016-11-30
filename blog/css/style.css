@@ -19,7 +19,7 @@ html, button, input, select, textarea,
 body {
   background-color: #FFF;
   color: #555;
-  font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", "PingFangSC-Regular", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px; }
@@ -34,13 +34,17 @@ body {
   padding-top: 20px;
   padding-bottom: 70px; }
 
-a, button.submit {
+button.submit {
   color: #6E7173;
   text-decoration: none;
   -webkit-transition: all .1s ease-in;
   -moz-transition: all .1s ease-in;
   -o-transition: all .1s ease-in;
   transition: all .1s ease-in; }
+
+a {
+  color: #555;
+  text-decoration: none; }
 
 a:hover, a:active {
   color: #7462e0; }
@@ -55,19 +59,18 @@ div {
   box-sizing: border-box; }
 
 #header {
-  padding: 58px 0 0;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-  position: relative; }
+  padding: 50px 0 0;
+  text-align: left; }
   #header .site-name {
-    margin-bottom: 40px; }
+    margin-bottom: 10px; }
     #header .site-name h1 {
       padding: 0;
       margin: 0;
       height: 0;
       overflow: hidden; }
     #header .site-name #logo {
-      font: bold 38px/1.12 "Times New Roman", Georgia, Times, sans-serif;
+      font-family: "courier new", "courier", "monospace";
+      font-size: 2em;
       color: #555; }
       #header .site-name #logo span, #header .site-name #logo:hover {
         color: #777; }
@@ -75,25 +78,16 @@ div {
       margin: .2em 0 0;
       color: #999; }
   #header #nav-menu {
-    margin: 10px 0 -1px;
-    padding: 0;
-    position: absolute;
-    right: 0;
-    bottom: 0; }
+    margin: 0;
+    padding: 0; }
     #header #nav-menu a {
-      display: inline-block;
-      padding: 3px 20px 3px;
-      line-height: 30px;
-      color: #444;
+      text-transform: lowercase;
       font-size: 13px;
-      border: 1px solid transparent; }
-      #header #nav-menu a:hover {
-        border-bottom-color: #444; }
+      margin-right: 20px; }
       #header #nav-menu a.current {
-        border: 1px solid #ddd;
-        border-bottom-color: #fff; }
-      #header #nav-menu a.current:hover {
-        color: #666; }
+        font-style: italic; }
+    #header #nav-menu a:last-child {
+      margin-right: 0; }
 
 #sidebar {
   border-left: 1px solid #ddd;
