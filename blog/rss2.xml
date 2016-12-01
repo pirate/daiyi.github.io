@@ -4,21 +4,22 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>daiyi&#39;s internet paper trail</title>
-    <link>http://daiyi.co/</link>
-    <atom:link href="/blog/rss2.xml" rel="self" type="application/rss+xml"/>
+    <link>http://daiyi.co/blog/</link>
+    <atom:link href="rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>thoughts and ideas and essays by daiyi; unrefined brain to internet shoveling</description>
-    <pubDate>Wed, 30 Nov 2016 18:43:03 GMT</pubDate>
+    <description>thoughts and ideas and essays by daiyi; unrefined brain-to-internet pipe; public journaling</description>
+    <language>en</language>
+    <pubDate>Thu, 01 Dec 2016 21:30:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>signaling in tech is some fucked up shit</title>
-      <link>http://daiyi.co/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</link>
-      <guid>http://daiyi.co/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</guid>
+      <link>http://daiyi.co/blog/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</link>
+      <guid>http://daiyi.co/blog/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</guid>
       <pubDate>Tue, 29 Nov 2016 23:07:57 GMT</pubDate>
       <description>
       
-        &lt;h2 id=&quot;I-am-exactly-as-cool-as-I-was-before-I-started-writing-clojure&quot;&gt;&lt;a href=&quot;#I-am-exactly-as-cool-as-I-was-before-I-started-writing-clo
+        I am exactly as cool as I was before I started writing clojure.
       
       </description>
       
@@ -32,17 +33,17 @@
 <p>I know railing against signaling is itself a signal that I am a naive member of society who has yet to smash out of my youthful optimism chrysalis into the apathetic reality machine. Signaling is going to be there no matter what, because human nature. All I can do is reflect in stupid amazement at this experience and compel you to treat others with respect by default. Seriously.</p>
 ]]></content:encoded>
       
-      <comments>http://daiyi.co/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/#disqus_thread</comments>
+      <comments>http://daiyi.co/blog/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/#disqus_thread</comments>
     </item>
     
     <item>
       <title>everything I do feels so trite</title>
-      <link>http://daiyi.co/2016/11/13/everything-I-do-feels-so-trite/</link>
-      <guid>http://daiyi.co/2016/11/13/everything-I-do-feels-so-trite/</guid>
+      <link>http://daiyi.co/blog/2016/11/13/everything-I-do-feels-so-trite/</link>
+      <guid>http://daiyi.co/blog/2016/11/13/everything-I-do-feels-so-trite/</guid>
       <pubDate>Sun, 13 Nov 2016 00:53:57 GMT</pubDate>
       <description>
       
-        &lt;h2 id=&quot;civic-guilt-cultural-privilege-and-a-flurry-of-other-lovely-thoughts-in-the-wake-of-USA-election-2016&quot;&gt;&lt;a href=&quot;#civic-guilt-cultural-privilege-and-a-flurry-of-other-lovely-thoughts-in-the-wake-of-USA-election-2016&quot; class=&quot;headerlink&quot; title=&quot;civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.&quot;&gt;&lt;/a&gt;civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.&lt;/h2&gt;&lt;p&gt;I have never seen so many people publicly acknowledge being brought to tears.
+        civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.
       
       </description>
       
@@ -62,20 +63,17 @@
 <h3 id="the-environment-is-fucked-and-we’re-going-to-be-responsible-for-affecting-all-humans"><a href="#the-environment-is-fucked-and-we’re-going-to-be-responsible-for-affecting-all-humans" class="headerlink" title="the environment is fucked and we’re going to be responsible for affecting all humans"></a>the environment is fucked and we’re going to be responsible for affecting all humans</h3><p>Here’s to hoping we hit the singularity and gain ultimate understanding as a global hivemind before we manage to destroy each other, so that the jokes rolling out of my mouth in a sad coping mechanism don’t feel as trite as writing all of this in the time I could have used to apply for socially responsible software jobs. I’ll speak up when I can. I’ll fight if I’m able. I will escape if the worst happens (I’m not going to pretend tyler and I didn’t talk about contingency plans). I will find a balance between paying back for the good things my society has given me and appreciating the things that make me happy about this life and I must do this asap.</p>
 ]]></content:encoded>
       
-      <comments>http://daiyi.co/2016/11/13/everything-I-do-feels-so-trite/#disqus_thread</comments>
+      <comments>http://daiyi.co/blog/2016/11/13/everything-I-do-feels-so-trite/#disqus_thread</comments>
     </item>
     
     <item>
       <title>A week on the Swiss Via Alpina</title>
-      <link>http://daiyi.co/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</link>
-      <guid>http://daiyi.co/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</guid>
+      <link>http://daiyi.co/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</link>
+      <guid>http://daiyi.co/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</guid>
       <pubDate>Mon, 07 Nov 2016 23:00:00 GMT</pubDate>
       <description>
       
-        &lt;img src=&quot;/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/daiyi-hikin.png&quot; alt=&quot;daiyi unable to face the camera due to overwhelming beauty of alps&quot; title=&quot;daiyi unable to face the camera due to overwhelming beauty of alps&quot;&gt;
-&lt;p&gt;I spent a week walking the Via Alpina trail in Switzerland from late September to early October 2016. I inevitably collect cool thoughts and cool photos when I hike for 8 hours a day and have always wanted to write a trip report, but motivation/time is eaten when I rejoin society and work/school. I have neither of those responsibilities right now! Posts will be serialised under the &lt;a href=&quot;/blog/categories/via-alpina&quot;&gt;Via Alpina&lt;/a&gt; category.&lt;/p&gt;
-&lt;h3 id=&quot;that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road&quot;&gt;&lt;a href=&quot;#that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road&quot; class=&quot;headerlink&quot; title=&quot;that feel when you go to a fancy modern country to sleep on the side of the road&quot;&gt;&lt;/a&gt;that feel when you go to a fancy modern country to sleep on the side of the road&lt;/h3&gt;&lt;p&gt;I love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe.&lt;/p&gt;
-&lt;p&gt;The trail was really developed and full of cows and people, so we got pretty creative about finding places to sleep! (Ominous foreshadowing music)&lt;br&gt;
+        Trip report! A week hiking the Via Alpina trail in Switzerland
       
       </description>
       
@@ -111,17 +109,17 @@
 </ul>
 ]]></content:encoded>
       
-      <comments>http://daiyi.co/2016/11/08/A-week-on-the-Swiss-Via-Alpina/#disqus_thread</comments>
+      <comments>http://daiyi.co/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/#disqus_thread</comments>
     </item>
     
     <item>
       <title>I went to IndieWebCamp</title>
-      <link>http://daiyi.co/2016/11/07/I-went-to-IndieWebCamp/</link>
-      <guid>http://daiyi.co/2016/11/07/I-went-to-IndieWebCamp/</guid>
+      <link>http://daiyi.co/blog/2016/11/07/I-went-to-IndieWebCamp/</link>
+      <guid>http://daiyi.co/blog/2016/11/07/I-went-to-IndieWebCamp/</guid>
       <pubDate>Mon, 07 Nov 2016 21:30:04 GMT</pubDate>
       <description>
       
-        &lt;h2 id=&quot;or-justification-for-satisfying-annual-urge-to-completely-revamp-web-presence&quot;&gt;&lt;a href=&quot;#or-justification-for-satisfying-annual-urge
+        I am inspired by the promises of an Indie Web.
       
       </description>
       
@@ -138,7 +136,7 @@
 <p>Cool, hopefully you can see some longform appear here in the near future! Or this will devolve back into a nature photoblog (I’ll keep that going on my <a href="http://tumblr.com/daiyi" target="_blank" rel="external">tumblr</a>). Either way.</p>
 ]]></content:encoded>
       
-      <comments>http://daiyi.co/2016/11/07/I-went-to-IndieWebCamp/#disqus_thread</comments>
+      <comments>http://daiyi.co/blog/2016/11/07/I-went-to-IndieWebCamp/#disqus_thread</comments>
     </item>
     
   </channel>
