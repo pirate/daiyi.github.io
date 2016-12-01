@@ -352,7 +352,14 @@ div {
 /* middle*/
 @media (min-width: 48em) {
   .hidden_mid_and_up {
-    display: none !important; } }
+    display: none !important; }
+  .code {
+    padding: 0.3em 15px 0.3em 1em;
+    width: 100%; }
+    .code pre {
+      max-width: 500px;
+      overflow-x: auto;
+      overflow-y: hidden; } }
 
 @media print, screen and (max-width: 48em) {
   .body_container {
@@ -939,7 +946,7 @@ figure.highlight,
     width: 100%; }
     figure.highlight .code pre,
     .codeblock .code pre {
-      max-width: 700px;
+      max-width: 900px;
       overflow-x: auto;
       overflow-y: hidden; }
   figure.highlight .line,
