@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>daiyi&#39;s internet paper trail</title>
+    <link>http://daiyi.co/</link>
+    <atom:link href="/blog/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>thoughts and ideas and essays by daiyi; unrefined brain to internet shoveling</description>
+    <pubDate>Wed, 30 Nov 2016 18:43:03 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>signaling in tech is some fucked up shit</title>
+      <link>http://daiyi.co/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</link>
+      <guid>http://daiyi.co/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</guid>
+      <pubDate>Tue, 29 Nov 2016 23:07:57 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;I-am-exactly-as-cool-as-I-was-before-I-started-writing-clojure&quot;&gt;&lt;a href=&quot;#I-am-exactly-as-cool-as-I-was-before-I-started-writing-clo
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="I-am-exactly-as-cool-as-I-was-before-I-started-writing-clojure"><a href="#I-am-exactly-as-cool-as-I-was-before-I-started-writing-clojure" class="headerlink" title="I am exactly as cool as I was before I started writing clojure."></a>I am exactly as cool as I was before I started writing clojure.</h2><p>I’ve had a short, short life as a programmer and I’ve spent a lot of it making websites. Back in the day (as in a couple years ago) when I told other software people I’m a web developer, I got treated like shit. I was a lower class of coder because I wasn’t “solving cool problems” because making web sites is easy. It was sad and confusing to receive unjustified hatred but I loved the internet and I thought it’s pretty neat to make things that everyone can use and I like the visual component to my projects so I’d just go secretly cry in the bathroom (cool tricked I learned in college) like an ordinary functioning adult.</p>
+<p>Somewhere along the way there was a massive rebranding so then I was literally the same things but now I’m a Frontend Engineer or UI Engineer. Occasionally I’d still get trashed by other coders but that’s ok, I even get to sit with the other software folks sometimes!</p>
+<p>I found web and design communities where people do good web things and encourage each other to be better. It’s cool. Love is out there.</p>
+<p>A month or two ago I started picking up clojure. I don’t know why other people learn new programming languages, but I didn’t know anything about clojure’s rich history and I wasn’t chasing the Beauty of Lisp or the superior mindset it would teach me or hoping to harness the performance or flexibility. I had no fucking clue about any of that. I’d just started reading <a href="https://mitpress.mit.edu/sicp" target="_blank" rel="external">SICP</a> because I missed computer science after bumping around in industryland, and it seemed trivial to swap scheme for clojure while doing the exercises in the book and end up being competent at a language I heard rumours that people use sometimes rather than a language I knew people used never.</p>
+<p>And I liked it! It was my first lisp and yeah coming from javascript and python I liked the quaint syntax, and the way everything is all about these couple of data structures, and thinking functionally and non-mutably (word salad word salad). More significantly, I’d just left my previous job pretty much hating programming, and clojure was reminding me about why I like programming, and that was lovely. I noticed it was possible to use clojure to make UIs via clojurescript and figured it’d be a cool way to connect these two interests and go full circle.</p>
+<p>I mentioned to some people I was learning clojure. Everyone was <em>super</em> into this. People started telling me I was really cool. I noticed people making all these wildly positive assumptions about my programming ability despite not having read a single line of code I’ve written ever. I instantly get elevated to a respect-worthy status for free and maybe for people who are used to being treated well that’s not a big deal, but coming from being treated like trash after telling people I am a web person the contrast was super intense and really obvious. I felt like I stumbled into a mystery bizarro-verse where you get dignity by default. It was SO WEIRD.</p>
+<p>It’s fucked up that being interested in this random programming language, not even for the reasons the fangirls love it, suddenly caused everyone to start being nice to me when I’m in fact the same trash can that I’ve been all along. Coming upon the Correct Signal by accident made it all feel extra wrong and extra strange, like I killed a man and wore his skin for a suit and suddenly inherited all the achievements ever made in that body.</p>
+<p>I know railing against signaling is itself a signal that I am a naive member of society who has yet to smash out of my youthful optimism chrysalis into the apathetic reality machine. Signaling is going to be there no matter what, because human nature. All I can do is reflect in stupid amazement at this experience and compel you to treat others with respect by default. Seriously.</p>
+]]></content:encoded>
+      
+      <comments>http://daiyi.co/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>everything I do feels so trite</title>
+      <link>http://daiyi.co/2016/11/13/everything-I-do-feels-so-trite/</link>
+      <guid>http://daiyi.co/2016/11/13/everything-I-do-feels-so-trite/</guid>
+      <pubDate>Sun, 13 Nov 2016 00:53:57 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;civic-guilt-cultural-privilege-and-a-flurry-of-other-lovely-thoughts-in-the-wake-of-USA-election-2016&quot;&gt;&lt;a href=&quot;#civic-guilt-cultural-privilege-and-a-flurry-of-other-lovely-thoughts-in-the-wake-of-USA-election-2016&quot; class=&quot;headerlink&quot; title=&quot;civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.&quot;&gt;&lt;/a&gt;civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.&lt;/h2&gt;&lt;p&gt;I have never seen so many people publicly acknowledge being brought to tears.
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="civic-guilt-cultural-privilege-and-a-flurry-of-other-lovely-thoughts-in-the-wake-of-USA-election-2016"><a href="#civic-guilt-cultural-privilege-and-a-flurry-of-other-lovely-thoughts-in-the-wake-of-USA-election-2016" class="headerlink" title="civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016."></a>civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.</h2><p>I have never seen so many people publicly acknowledge being brought to tears. <a id="more"></a> Well, here’s me: I’m on European time so I woke up to full hysteria. My gay black American roommate was freaking out since 07:00 CEST as the election day was drawing to a close stateside. I made it all the way to late afternoon before I started receiving celebratory messages in the family chat. I burst into tears and tyler held me as I shook with sobs, no words.</p>
+<h3 id="immobilising-guilt"><a href="#immobilising-guilt" class="headerlink" title="immobilising guilt"></a>immobilising guilt</h3><p>I’m dreading my trip to South America in January after being excited about it for years. It just feels silly now. Everything feels silly. I read but then I put down my books. I write code and it just seems wrong that I’m doing that instead of … something else? Even writing this feels like a comical waste of time even though putting words to feelings is helping me work through this confusion.</p>
+<h3 id="responsibility"><a href="#responsibility" class="headerlink" title="responsibility"></a>responsibility</h3><p>I think of my lovely friend, Ping, an excellent human who from my arm’s length vantage point seems to be constantly weighted by guilt that he hasn’t saved all humans by now. And then there is my friend d, who is an upstanding person and thoughtful conversationalist, patron of the arts and appreciator/contributor to fine engineering. He dreams nothing more than to purchase a plot of land as remote as possible on which to build his stronghold against the fluctuations of a confused society. He wants to bring his friends there so he has excellent company.</p>
+<p>These are my reference points. And so it comes down to the maddening question of balance, finding the right point along the spectrum of how much fucks to give. Too many fucks, and you’re in constant agony while carrying the emotional burden of all humans (and maybe animals too, if you’re into that). Not enough fucks and you’ve denounced the very society on which you’ve scaffolded your comfort, success, and happiness.</p>
+<p>We want to do something, anything that will alleviate the horrible feeling of helplessness. We ask, how do we help? what can we do?</p>
+<h3 id="uncomfortable-answers"><a href="#uncomfortable-answers" class="headerlink" title="uncomfortable answers"></a>uncomfortable answers</h3><p>It doesn’t feel satisfying but throwing money at orgs that need it is crucial: ACLU, planned parenthood, EFF. But without getting your hands in you don’t have the delicious sensation of making a difference. And what about all these skills I have? Shouldn’t someone out there need some code or something?</p>
+<h3 id="please-stop-telling-me-to-empathise"><a href="#please-stop-telling-me-to-empathise" class="headerlink" title="please stop telling me to empathise"></a>please stop telling me to empathise</h3><p>I sincerely wish I could see over the internet wall into the other side. I want to believe trump supporters are saying to each other, <em>wow these people are angry, but maybe we can try to understand them. Go talk to a Hillary supporter. Don’t know any? Well that’s your problem. I guess it’s reasonable that they worry more about the safety of themselves and their loved ones than they worry about our economic anxiety.</em></p>
+<p>I really really hope someone out there is saying that the way like-minded folk to myself are saying the inverse to me.</p>
+<p>The underlying assumption there that everyone had a blissful upbring where they peacefully inherited their values from their family is almost insulting. Some people had to look elsewhere for their moral frameworks, and going back is a mental health death wish.</p>
+<p>I already understand them, thanks. And that’s more than they’ve done for me.</p>
+<p>So now that we understand each other, then what?</p>
+<h3 id="I-was-young-the-last-time-we-voted-in-a-non-Obama-president-Was-it-like-this"><a href="#I-was-young-the-last-time-we-voted-in-a-non-Obama-president-Was-it-like-this" class="headerlink" title="I was young the last time we voted in a non-Obama president. Was it like this?"></a>I was young the last time we voted in a non-Obama president. Was it like this?</h3><p>Were people telling each other to stay safe? Were they sharing tips on how to intercept public acts of aggression towards marginalised people? I hear talk of stockpiling medication that they owe their life to the way I imagine people talk about stockpiling guns in case of gun control.</p>
+<p>People say they are <em>shocked</em> that this happened not because it’s actually surprising that people are willing to overlook (embrace?) racism, xenophobia, etc in favour of their own livelihoods, their jobs, a promise of the continuity of their familiar way of life. They’re shocked because it was a physical blow of disbelief from the <em>formalisation</em> of the divide in priorities that we already knew all about. Shit got real.</p>
+<h3 id="the-environment-is-fucked-and-we’re-going-to-be-responsible-for-affecting-all-humans"><a href="#the-environment-is-fucked-and-we’re-going-to-be-responsible-for-affecting-all-humans" class="headerlink" title="the environment is fucked and we’re going to be responsible for affecting all humans"></a>the environment is fucked and we’re going to be responsible for affecting all humans</h3><p>Here’s to hoping we hit the singularity and gain ultimate understanding as a global hivemind before we manage to destroy each other, so that the jokes rolling out of my mouth in a sad coping mechanism don’t feel as trite as writing all of this in the time I could have used to apply for socially responsible software jobs. I’ll speak up when I can. I’ll fight if I’m able. I will escape if the worst happens (I’m not going to pretend tyler and I didn’t talk about contingency plans). I will find a balance between paying back for the good things my society has given me and appreciating the things that make me happy about this life and I must do this asap.</p>
+]]></content:encoded>
+      
+      <comments>http://daiyi.co/2016/11/13/everything-I-do-feels-so-trite/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A week on the Swiss Via Alpina</title>
+      <link>http://daiyi.co/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</link>
+      <guid>http://daiyi.co/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</guid>
+      <pubDate>Mon, 07 Nov 2016 23:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;img src=&quot;/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/daiyi-hikin.png&quot; alt=&quot;daiyi unable to face the camera due to overwhelming beauty of alps&quot; title=&quot;daiyi unable to face the camera due to overwhelming beauty of alps&quot;&gt;
+&lt;p&gt;I spent a week walking the Via Alpina trail in Switzerland from late September to early October 2016. I inevitably collect cool thoughts and cool photos when I hike for 8 hours a day and have always wanted to write a trip report, but motivation/time is eaten when I rejoin society and work/school. I have neither of those responsibilities right now! Posts will be serialised under the &lt;a href=&quot;/blog/categories/via-alpina&quot;&gt;Via Alpina&lt;/a&gt; category.&lt;/p&gt;
+&lt;h3 id=&quot;that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road&quot;&gt;&lt;a href=&quot;#that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road&quot; class=&quot;headerlink&quot; title=&quot;that feel when you go to a fancy modern country to sleep on the side of the road&quot;&gt;&lt;/a&gt;that feel when you go to a fancy modern country to sleep on the side of the road&lt;/h3&gt;&lt;p&gt;I love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe.&lt;/p&gt;
+&lt;p&gt;The trail was really developed and full of cows and people, so we got pretty creative about finding places to sleep! (Ominous foreshadowing music)&lt;br&gt;
+      
+      </description>
+      
+      <content:encoded><![CDATA[<img src="/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/daiyi-hikin.png" alt="daiyi unable to face the camera due to overwhelming beauty of alps" title="daiyi unable to face the camera due to overwhelming beauty of alps">
+<p>I spent a week walking the Via Alpina trail in Switzerland from late September to early October 2016. I inevitably collect cool thoughts and cool photos when I hike for 8 hours a day and have always wanted to write a trip report, but motivation/time is eaten when I rejoin society and work/school. I have neither of those responsibilities right now! Posts will be serialised under the <a href="/blog/categories/via-alpina">Via Alpina</a> category.</p>
+<h3 id="that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road"><a href="#that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road" class="headerlink" title="that feel when you go to a fancy modern country to sleep on the side of the road"></a>that feel when you go to a fancy modern country to sleep on the side of the road</h3><p>I love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe.</p>
+<p>The trail was really developed and full of cows and people, so we got pretty creative about finding places to sleep! (Ominous foreshadowing music)<br> <a id="more"></a></p>
+<h3 id="Contradictions"><a href="#Contradictions" class="headerlink" title="Contradictions"></a>Contradictions</h3><ul>
+<li>I’m on a fairly tight budget, but Switzerland is notoriously expensive.</li>
+<li>I like packing ultralight but I was flying to a wedding right and needed nice clothes ✨</li>
+</ul>
+<p>Even with cautionary tales of $20 McD from friends who visited earlier in the summer, I was unable to handle how crazy Switzerland prices were, even with my recent past life in the luxurious San Francisco tech startup reality sphere. We brought our food in from Germany, an excellent country with reasonable grocery bills and an appreciation for tasty dehydrated meals (in the US you have to go to a sport store for that).</p>
+<h3 id="Here-are-some-ways-I-prepared-for-the-trip-because-I-sometimes-get-questions-about-how-I-travel-o"><a href="#Here-are-some-ways-I-prepared-for-the-trip-because-I-sometimes-get-questions-about-how-I-travel-o" class="headerlink" title="Here are some ways I prepared for the trip, because I sometimes get questions about how I travel \o/"></a>Here are some ways I prepared for the trip, because I sometimes get questions about how I travel \o/</h3><p>Basically I like to collect a ton of info so I can put off deciding on specifics for as long as possible. This is the kind of thinking that both leads me to sleeping on the side of the road but also in a secluded magical fairy wonderland (both happened).</p>
+<ul>
+<li><p><a href="https://activityworkshop.net/hiking/alpinepassroute" target="_blank" rel="external">activity workshop .net</a>, an oddly-named website which provided kickass gps maps and elevation reliefs and info about the towns along the Swiss via alpina.</p>
+</li>
+<li><p><a href="http://osmand.net/" target="_blank" rel="external">OSM-AND</a> and <a href="http://maps.me/en/" target="_blank" rel="external">Maps.me</a> android apps, which I used to read gps coordinates/trails from above. Both superior to google maps for (my style of) travel because of</p>
+<ul>
+<li>excellent offline support</li>
+<li>easy bookmarking/note-taking that exports to standard formats</li>
+<li>you can search for bathrooms omg</li>
+<li>more data for hiking trail/natural features (eg mountain peaks)  </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><p>I also highly recommend the <a href="http://osmand.net/features?id=contour-lines-plugin" target="_blank" rel="external">OSM-AND topo plugin</a> for a super awesome hiking experience :D</p>
+</li>
+<li><p><a href="http://hitchwiki.org/" target="_blank" rel="external">Hitchwiki</a> – a wiki and map contributed by hitchhikers for hitchhikers!</p>
+</li>
+<li><p><a href="https://getpocket.com" target="_blank" rel="external">Pocket</a>, which I used to offline cache aforementioned resources.</p>
+</li>
+</ul>
+]]></content:encoded>
+      
+      <comments>http://daiyi.co/2016/11/08/A-week-on-the-Swiss-Via-Alpina/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>I went to IndieWebCamp</title>
+      <link>http://daiyi.co/2016/11/07/I-went-to-IndieWebCamp/</link>
+      <guid>http://daiyi.co/2016/11/07/I-went-to-IndieWebCamp/</guid>
+      <pubDate>Mon, 07 Nov 2016 21:30:04 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;or-justification-for-satisfying-annual-urge-to-completely-revamp-web-presence&quot;&gt;&lt;a href=&quot;#or-justification-for-satisfying-annual-urge
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="or-justification-for-satisfying-annual-urge-to-completely-revamp-web-presence"><a href="#or-justification-for-satisfying-annual-urge-to-completely-revamp-web-presence" class="headerlink" title="or, justification for satisfying annual urge to completely revamp web presence."></a>or, justification for satisfying annual urge to completely revamp web presence.</h2><p>I am inspired by the promises of an <a href="https://indieweb.org/why" target="_blank" rel="external">Indie Web</a>. Owning your data, cool. A single source of truth to your content and identity, nice. Possibility of sinking countless hours into configuring your own corner of the internet, ok you got me there.</p>
+<p>I’m hearing some rattling in my internet social spheres about how content silos are making the internet more homogeneous, forcing you to conform and contort your thoughts into prescribed formatting, that force of nature that causes experts in their fields to blast out 50-part tweetstorms that should be written in an article instead. Hey you sound exactly like the indiewebcamp people!</p>
+<p>Go <a href="https://indieweb.org/" target="_blank" rel="external">check it out</a>. They’re nice, too (:</p>
+<h3 id="personal-minutia"><a href="#personal-minutia" class="headerlink" title="personal minutia"></a>personal minutia</h3><p>This is going to be a static site because it is just a blog; if I am generating enough content to need a database behind it I should probably be getting paid for it. Fun fact: in middle school, my diary was a series of .txt files.</p>
+<p>I know everyone and github is really into jekyll, but I decided to use <a href="https://hexo.io/" target="_blank" rel="external">hexo</a> to generate my static site for the following reasons:</p>
+<ul>
+<li>I’m a node developer (bring on the hate) who is too lazy to install ruby stuff on my computer.</li>
+<li>hexo’s developer community is surprisingly full of chinese people. I am forced to face my illiteracy and read a lot of chinese. It will be good practice :D</li>
+</ul>
+<p>Speaking of which, I’m pretty surprised I don’t encounter a lot more chinese developers on the internet, seeing as how there’s a lot of cool people and technology in china. It seems the Great Firewall runs deep.</p>
+<p>Cool, hopefully you can see some longform appear here in the near future! Or this will devolve back into a nature photoblog (I’ll keep that going on my <a href="http://tumblr.com/daiyi" target="_blank" rel="external">tumblr</a>). Either way.</p>
+]]></content:encoded>
+      
+      <comments>http://daiyi.co/2016/11/07/I-went-to-IndieWebCamp/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
