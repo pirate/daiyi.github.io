@@ -5,7 +5,7 @@
   <channel>
     <title>daiyi&#39;s internet paper trail</title>
     <link>http://daiyi.co/blog/</link>
-    <atom:link href="rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>thoughts and ideas and essays by daiyi; unrefined brain-to-internet pipe; public journaling</description>
     <language>en</language>
@@ -19,7 +19,7 @@
       <pubDate>Tue, 29 Nov 2016 23:07:57 GMT</pubDate>
       <description>
       
-        I am exactly as cool as I was before I started writing clojure.
+        I am exactly as cool as I was before I started writing clojure.I’ve had a short, short life as a programmer and I’ve spent a lot of it...
       
       </description>
       
@@ -43,7 +43,7 @@
       <pubDate>Sun, 13 Nov 2016 00:53:57 GMT</pubDate>
       <description>
       
-        civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.
+        civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.I have never seen so many people publicly acknowledge being brought to tears.
       
       </description>
       
@@ -73,13 +73,13 @@
       <pubDate>Mon, 07 Nov 2016 23:00:00 GMT</pubDate>
       <description>
       
-        Trip report! A week hiking the Via Alpina trail in Switzerland
+        I spent a week walking the Via Alpina trail in Switzerland from late September to early October 2016. I inevitably collect cool thoughts and cool photos when I hike for 8 hours a day and have always wanted to write a trip report, but motivation/time is eaten when I rejoin society and work/school. I have neither of those responsibilities right now! Posts will be serialised under the Via Alpina category. when you go to a fancy modern country to sleep on the side of the roadI love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe. The trail was really developed and full of cows and people, so we got pretty creative about finding places to sleep! (Ominous foreshadowing music)
       
       </description>
       
       <content:encoded><![CDATA[<img src="/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/daiyi-hikin.png" alt="daiyi unable to face the camera due to overwhelming beauty of alps" title="daiyi unable to face the camera due to overwhelming beauty of alps">
 <p>I spent a week walking the Via Alpina trail in Switzerland from late September to early October 2016. I inevitably collect cool thoughts and cool photos when I hike for 8 hours a day and have always wanted to write a trip report, but motivation/time is eaten when I rejoin society and work/school. I have neither of those responsibilities right now! Posts will be serialised under the <a href="/blog/categories/via-alpina">Via Alpina</a> category.</p>
-<h3 id="that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road"><a href="#that-feel-when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road" class="headerlink" title="that feel when you go to a fancy modern country to sleep on the side of the road"></a>that feel when you go to a fancy modern country to sleep on the side of the road</h3><p>I love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe.</p>
+<h2 id="when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road"><a href="#when-you-go-to-a-fancy-modern-country-to-sleep-on-the-side-of-the-road" class="headerlink" title="when you go to a fancy modern country to sleep on the side of the road"></a>when you go to a fancy modern country to sleep on the side of the road</h2><p>I love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe.</p>
 <p>The trail was really developed and full of cows and people, so we got pretty creative about finding places to sleep! (Ominous foreshadowing music)<br> <a id="more"></a></p>
 <h3 id="Contradictions"><a href="#Contradictions" class="headerlink" title="Contradictions"></a>Contradictions</h3><ul>
 <li>I’m on a fairly tight budget, but Switzerland is notoriously expensive.</li>
@@ -119,7 +119,7 @@
       <pubDate>Mon, 07 Nov 2016 21:30:04 GMT</pubDate>
       <description>
       
-        I am inspired by the promises of an Indie Web.
+        or, justification for satisfying annual urge to completely revamp web presence.I am inspired by the promises of an Indie Web. Owning your...
       
       </description>
       
