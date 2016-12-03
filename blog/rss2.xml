@@ -9,7 +9,7 @@
     
     <description>thoughts and ideas and essays by daiyi; unrefined brain-to-internet pipe; public journaling</description>
     <language>en</language>
-    <pubDate>Thu, 01 Dec 2016 21:30:42 GMT</pubDate>
+    <pubDate>Sat, 03 Dec 2016 12:59:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -19,12 +19,12 @@
       <pubDate>Tue, 29 Nov 2016 23:07:57 GMT</pubDate>
       <description>
       
-        I am exactly as cool as I was before I started writing clojure.I’ve had a short, short life as a programmer and I’ve spent a lot of it...
+        I am exactly as cool as I was before I started writing clojure.
       
       </description>
       
       <content:encoded><![CDATA[<h2 id="I-am-exactly-as-cool-as-I-was-before-I-started-writing-clojure"><a href="#I-am-exactly-as-cool-as-I-was-before-I-started-writing-clojure" class="headerlink" title="I am exactly as cool as I was before I started writing clojure."></a>I am exactly as cool as I was before I started writing clojure.</h2><p>I’ve had a short, short life as a programmer and I’ve spent a lot of it making websites. Back in the day (as in a couple years ago) when I told other software people I’m a web developer, I got treated like shit. I was a lower class of coder because I wasn’t “solving cool problems” because making web sites is easy. It was sad and confusing to receive unjustified hatred but I loved the internet and I thought it’s pretty neat to make things that everyone can use and I like the visual component to my projects so I’d just go secretly cry in the bathroom (cool tricked I learned in college) like an ordinary functioning adult.</p>
-<p>Somewhere along the way there was a massive rebranding so then I was literally the same things but now I’m a Frontend Engineer or UI Engineer. Occasionally I’d still get trashed by other coders but that’s ok, I even get to sit with the other software folks sometimes!</p>
+<p>Somewhere along the way there was a massive rebranding so then I was doing literally the same things but now I’m a Frontend Engineer or UI Engineer. Occasionally I’d still get trashed by other coders but that’s ok, I even get to sit with the other software folks sometimes!</p>
 <p>I found web and design communities where people do good web things and encourage each other to be better. It’s cool. Love is out there.</p>
 <p>A month or two ago I started picking up clojure. I don’t know why other people learn new programming languages, but I didn’t know anything about clojure’s rich history and I wasn’t chasing the Beauty of Lisp or the superior mindset it would teach me or hoping to harness the performance or flexibility. I had no fucking clue about any of that. I’d just started reading <a href="https://mitpress.mit.edu/sicp" target="_blank" rel="external">SICP</a> because I missed computer science after bumping around in industryland, and it seemed trivial to swap scheme for clojure while doing the exercises in the book and end up being competent at a language I heard rumours that people use sometimes rather than a language I knew people used never.</p>
 <p>And I liked it! It was my first lisp and yeah coming from javascript and python I liked the quaint syntax, and the way everything is all about these couple of data structures, and thinking functionally and non-mutably (word salad word salad). More significantly, I’d just left my previous job pretty much hating programming, and clojure was reminding me about why I like programming, and that was lovely. I noticed it was possible to use clojure to make UIs via clojurescript and figured it’d be a cool way to connect these two interests and go full circle.</p>
@@ -43,7 +43,7 @@
       <pubDate>Sun, 13 Nov 2016 00:53:57 GMT</pubDate>
       <description>
       
-        civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.I have never seen so many people publicly acknowledge being brought to tears.
+        civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.
       
       </description>
       
@@ -73,7 +73,7 @@
       <pubDate>Mon, 07 Nov 2016 23:00:00 GMT</pubDate>
       <description>
       
-        I spent a week walking the Via Alpina trail in Switzerland from late September to early October 2016. I inevitably collect cool thoughts and cool photos when I hike for 8 hours a day and have always wanted to write a trip report, but motivation/time is eaten when I rejoin society and work/school. I have neither of those responsibilities right now! Posts will be serialised under the Via Alpina category. when you go to a fancy modern country to sleep on the side of the roadI love that the alps are super accessible (grandmas and dogs and babies all over the places, rails running out of every town to the top of every pass), and people go there specifically to enjoy the European charm and convenience of mountain cabins/huts. So of course I ignored all the modern comforts the country had to offer, wild camping and hitchhiking instead. I took one train, two hours from Zurich to my arbitrarily selected trailhead in Engelberg, which was a fresh and smooth experience that, like all the other Swiss things, put the quality of their counterparts in other countries to shame, but also used all my food budget for the month. It was lovely for being the only train I pay for my entire stay in Europe. The trail was really developed and full of cows and people, so we got pretty creative about finding places to sleep! (Ominous foreshadowing music)
+        Trip report! A week hiking the Via Alpina trail in Switzerland
       
       </description>
       
@@ -119,7 +119,7 @@
       <pubDate>Mon, 07 Nov 2016 21:30:04 GMT</pubDate>
       <description>
       
-        or, justification for satisfying annual urge to completely revamp web presence.I am inspired by the promises of an Indie Web. Owning your...
+        I am inspired by the promises of an Indie Web.
       
       </description>
       

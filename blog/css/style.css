@@ -14,7 +14,8 @@ specific font stacks to ensure the greatest OS/browser compatibility.
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
   /* Set your content font stack here: */
-  font-family: "Helvetica Neue", Helvetica, "Segoe UI", "PingFangSC-Regular", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif; }
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", "PingFangSC-Regular", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 14px; }
 
 body {
   background: no-repeat top left fixed url("/blog/img/grey_xl.jpg");
@@ -43,6 +44,28 @@ button.submit {
   -moz-transition: all .1s ease-in;
   -o-transition: all .1s ease-in;
   transition: all .1s ease-in; }
+
+textarea {
+  background: #fff;
+  color: #777;
+  border: none;
+  overflow: auto;
+  outline: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 10em; }
+  textarea:focus {
+    color: #333; }
+
+.comment blockquote {
+  line-height: 1.5em; }
+
+.comment br {
+  font-size: 4em; }
 
 a {
   color: #555;
@@ -85,11 +108,12 @@ div {
     #header #nav-menu a {
       text-transform: lowercase;
       font-size: 13px;
-      margin-right: 20px; }
+      margin-left: 20px;
+      display: inline-block; }
       #header #nav-menu a.current {
         font-style: italic; }
-    #header #nav-menu a:last-child {
-      margin-right: 0; }
+    #header #nav-menu a:first-child {
+      margin-left: 0; }
 
 #sidebar {
   border-left: 1px solid #ddd;
@@ -180,12 +204,11 @@ div {
   margin: 70px 0 100px; }
   .post .meta {
     font-family: "courier new", "courier", "monospace"; }
-  .post .post-title {
+  .post header h2 {
     margin: 0;
-    color: #555;
     text-align: left;
     font: 30px/1.1 "courier new", "courier", "monospace"; }
-    .post .post-title a {
+    .post header h2 a {
       color: #00a4a6; }
   .post .post-meta {
     padding: 0;
@@ -221,24 +244,23 @@ div {
     text-indent: .15em; }
     .post .disqus-comment-count:hover {
       color: #7462e0; }
+  .post h2 {
+    font-size: 1.4em;
+    margin: 0 0 0.7em 0; }
+  .post h3 {
+    font-size: 1.3em;
+    margin: 0 0 0.8em 0; }
+  .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
+    color: #333;
+    font-family: 'courier new', 'courier', 'monospace';
+    font-weight: normal;
+    line-height: 1.3; }
   .post .post-content {
     clear: left;
     font-size: 16px;
     line-height: 1.7;
     padding-top: 20px;
     word-break: normal; }
-    .post .post-content h2 {
-      font-size: 1.4em;
-      margin: 0 0 0.7em 0; }
-    .post .post-content h3 {
-      font-size: 1.3em;
-      margin: 0 0 0.8em 0; }
-    .post .post-content h1, .post .post-content h2, .post .post-content h3, .post .post-content h4, .post .post-content h5, .post .post-content h6 {
-      color: #333;
-      font-family: 'courier new', 'courier', 'monospace';
-      font-weight: normal;
-      line-height: 1.3;
-      padding-top: 0.5em; }
     .post .post-content pre code {
       padding: 0 2em; }
     .post .post-content a {
@@ -275,7 +297,7 @@ div {
       display: block; }
     .post .post-content ul, .post .post-content ol {
       border-radius: 3px;
-      margin: 1em 0; }
+      margin: -0.5em 0 1.5em; }
       .post .post-content ul ul, .post .post-content ol ul {
         margin: 0; }
       .post .post-content ul code, .post .post-content ol code {
@@ -295,6 +317,15 @@ div {
   .post.comments {
     padding-top: 10px;
     padding-bottom: 0; }
+
+.comment-box {
+  color: #555; }
+  .comment-box a {
+    text-decoration: underline dotted; }
+
+.comment .commenter {
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0px -4px 0px #ccc inset; }
 
 .page-navigator {
   border-top: 1px solid #ddd;
@@ -364,7 +395,16 @@ div {
     padding: 0 20px; }
   .post {
     box-shadow: none;
-    padding: 0; } }
+    padding: 0; }
+  .post:last-child {
+    margin-bottom: 30px; }
+  .comment-box h2 {
+    background-color: #eee;
+    padding: 3px 5px 0; }
+  textarea {
+    outline: 1px #ccc solid; }
+    textarea:focus {
+      outline: 1px #999 solid; } }
 
 /* middle*/
 @media (min-width: 48em) {
@@ -380,7 +420,9 @@ div {
 
 @media print, screen and (max-width: 48em) {
   .content_container {
-    padding-top: 0; }
+    padding: 0; }
+  .body_container {
+    padding: 0 20px; }
   .hidden_mid_and_down {
     display: none !important; }
   #sidebar {
@@ -767,8 +809,8 @@ pre {
 .readmore {
   padding-bottom: 10px; }
   .readmore a {
-    background-color: #eee;
-    color: #878787;
+    background-color: #ccc;
+    color: #555;
     float: right;
     font-size: 14px;
     margin: -10px 0;
