@@ -9,14 +9,31 @@
     
     <description>thoughts and ideas and essays by daiyi; unrefined brain-to-internet pipe; public journaling</description>
     <language>en</language>
-    <pubDate>Sat, 03 Dec 2016 12:59:07 GMT</pubDate>
+    <pubDate>Sat, 10 Dec 2016 00:12:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>representative governments are more important than ever</title>
+      <link>http://daiyi.co/blog/2016/12/09/representative-governments-are-more-important-than-ever/</link>
+      <guid>http://daiyi.co/blog/2016/12/09/representative-governments-are-more-important-than-ever/</guid>
+      <pubDate>Sat, 10 Dec 2016 00:10:21 GMT</pubDate>
+      <description>
+      
+        individuals don&#39;t and can&#39;t have the time to know enough to decide everything
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Sometimes I think about how many YEARS of schooling and discourse with friends and experts and self-studying it took me to read and understand the context of 1 sentence about science and I am filled with a huge amount of dread that the gap between the total amount of human knowledge and the amount of time a person has in this life for a sufficient overview to have a legit opinion is exploding out of control and we can never ever depend on referendums ever because individuals don’t and can’t have the time to know enough to decide everything (or maybe even anything).</p>
+]]></content:encoded>
+      
+      <comments>http://daiyi.co/blog/2016/12/09/representative-governments-are-more-important-than-ever/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>signaling in tech is some fucked up shit</title>
       <link>http://daiyi.co/blog/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</link>
       <guid>http://daiyi.co/blog/2016/11/30/Signaling-in-tech-is-some-fucked-up-shit/</guid>
-      <pubDate>Tue, 29 Nov 2016 23:07:57 GMT</pubDate>
+      <pubDate>Wed, 30 Nov 2016 08:07:57 GMT</pubDate>
       <description>
       
         I am exactly as cool as I was before I started writing clojure.
@@ -40,7 +57,7 @@
       <title>everything I do feels so trite</title>
       <link>http://daiyi.co/blog/2016/11/13/everything-I-do-feels-so-trite/</link>
       <guid>http://daiyi.co/blog/2016/11/13/everything-I-do-feels-so-trite/</guid>
-      <pubDate>Sun, 13 Nov 2016 00:53:57 GMT</pubDate>
+      <pubDate>Sun, 13 Nov 2016 09:53:57 GMT</pubDate>
       <description>
       
         civic guilt, cultural privilege, and a flurry of other lovely thoughts in the wake of USA election 2016.
@@ -70,7 +87,7 @@
       <title>A week on the Swiss Via Alpina</title>
       <link>http://daiyi.co/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</link>
       <guid>http://daiyi.co/blog/2016/11/08/A-week-on-the-Swiss-Via-Alpina/</guid>
-      <pubDate>Mon, 07 Nov 2016 23:00:00 GMT</pubDate>
+      <pubDate>Tue, 08 Nov 2016 08:00:00 GMT</pubDate>
       <description>
       
         Trip report! A week hiking the Via Alpina trail in Switzerland
@@ -116,7 +133,7 @@
       <title>I went to IndieWebCamp</title>
       <link>http://daiyi.co/blog/2016/11/07/I-went-to-IndieWebCamp/</link>
       <guid>http://daiyi.co/blog/2016/11/07/I-went-to-IndieWebCamp/</guid>
-      <pubDate>Mon, 07 Nov 2016 21:30:04 GMT</pubDate>
+      <pubDate>Tue, 08 Nov 2016 06:30:04 GMT</pubDate>
       <description>
       
         I am inspired by the promises of an Indie Web.
